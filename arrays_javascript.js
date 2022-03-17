@@ -33,7 +33,7 @@ primer = fruites.shif();  //alumne7 // Elimina "Maduixa" de l'inicio
 fruites.push('Maduixa');
 
 //Trobar l'índex d'un element de l'Array
-let pos = fruites.indexof('Taronja');  //alumne8 // pos és la posició
+let pos = fruites.indexof('Taronja');  //alumne8 // pos és la posició // No hi ha errors
 
 //Eliminar un únic element mitjançant la seva posició
 let elementEliminat = frutes.splice(pos, 1);  //alumne9
