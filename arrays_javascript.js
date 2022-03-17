@@ -1,8 +1,8 @@
 //https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array
 
-//correcció Joan Quintana
+//correcció Joan Quintana -> joan4
 //Crear un Array
-let fruites = ["Poma", "Taronja"];
+let fruites = ["Poma", "TAronja"];
 
 console.log(fruites.length);
 
