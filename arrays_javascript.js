@@ -36,7 +36,7 @@ fruites.push('Maduixa');
 let pos = fruites.indexOf('Taronja');  //alumne8 // pos és la posició
 
 //Eliminar un únic element mitjançant la seva posició
-let elementEliminat = frutes.splice(pos, 1);  //alumne9
+let elementEliminat = fruites.splice(pos, 1);  //alumne9
 
 //Eliminar varis elements a partir d'una posició
 let vegetals = ['Carbassó', 'Esbergínia', 'Rave', 'Pastanaga'];  //alumne10
