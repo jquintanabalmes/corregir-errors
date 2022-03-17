@@ -10,7 +10,7 @@ let primer = fruites[0];  //alumne2
 console.log(primer);
 
 let ultim = fruites[fruites.length - 1];
-console.log(ultim;  //alumne3
+console.log(ultim);  //alumne3
 
 //Recórrer un Array
 fruites.forEach(function(element, index, array {  //alumne4
