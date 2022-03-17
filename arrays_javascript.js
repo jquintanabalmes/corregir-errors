@@ -1,13 +1,10 @@
 //https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array
 
-//correcció Joan Quintana -> joan4
-//joan5
 //Crear un Array
 let fruites = ["Poma", "TAronja"];
 
 console.log(fruites.length);
 
-//canvis joan2
 //Acceder a un elemento de Array mediante su índice
 let primer = fruites[0];
 console.log(primer);
@@ -20,7 +17,6 @@ fruites.forEach(function(element, index, array) {
     console.log(element, index);
 });
 
-//correcció joan3
 //Afegir un element al final d'un Array
 console.log(fruites.push('Mandarina')); //push retorna la nova longitud
 console.log(fruites);
