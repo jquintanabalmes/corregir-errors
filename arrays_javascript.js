@@ -40,6 +40,7 @@ fruites.push('Maduixa)
 //Trobar l'índex d'un element de l'Array
 let pos = fruites.indexOf('Taronja'); // pos és la posició
 
+//correcció joan6
 //Eliminar un únic element mitjançant la seva posició
 let elementEliminat = fruites.splice(pos, 1);
 
