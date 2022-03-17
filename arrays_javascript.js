@@ -13,7 +13,7 @@ let ultim = fruites[fruites.length - 1];
 console.log(ultim);  //alumne3
 
 //Recórrer un Array
-fruites.forEach(function(element, index, array {  //alumne4
+fruites.forEach(function(element, index, array) {  //alumne4
     console.log(element, index);
 });
 
