@@ -4,6 +4,7 @@
 //Crear un Array
 let fruites = ["Poma", "TAronja"];
 
+//joan6
 console.log(fruites.length);
 
 //canvis joan2
