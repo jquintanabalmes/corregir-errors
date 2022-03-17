@@ -22,7 +22,7 @@ console.log(fruites.push('Mandarina')); //push retorna la nova longitud
 console.log(fruites);
 
 //Eliminar l'últim element d'un Array
-ultim = fruites.pop(;  //alumne5
+ultim = fruites.pop();  //alumne5
 
 //Afegir un element al principi d'un Array
 novaLongitud = fruites.unshift('Maduixa);  //alumne6
