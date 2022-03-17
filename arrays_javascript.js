@@ -53,7 +53,7 @@ console.log(vegetals);
 let copiaArray = vegetals.slice();
 
 //Creació d'un array unidimensional
-let missatges = [;  //alumne12
+let missatges = [];  //alumne12
 missatges[0] = "Hola";
 missatges[99] = "món";
 
