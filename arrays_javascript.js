@@ -39,7 +39,7 @@ let pos = fruites.indexof('Taronja');  //alumne8 // pos és la posició
 let elementEliminat = frutes.splice(pos, 1);  //alumne9 // no hi ha errors
 
 //Eliminar varis elements a partir d'una posició
-let vegetals = ['Carbassó', 'Esbergínia', 'Rave, 'Pastanaga'];  //alumne10
+let vegetals = ['Carbassó', 'Esbergínia', 'Rave', 'Pastanaga'];  //alumne10
 console.log(vegetals);
 
 pos = 1
