@@ -25,7 +25,7 @@ console.log(fruites);
 ultim = fruites.pop(;  //alumne5
 
 //Afegir un element al principi d'un Array
-novaLongitud = fruites.unshift('Maduixa);  //alumne6
+novaLongitud = fruites.unshift('Maduixa');  //alumne6
 //Eliminar el primer element d'un Array
 primer = fruites.shif();  //alumne7 // Elimina "Maduixa" de l'inicio
 
