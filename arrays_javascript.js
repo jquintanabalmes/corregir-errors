@@ -19,6 +19,7 @@ fruites.forEach(function(element, index, array) {
     console.log(element, index);
 });
 
+//correcció joan3
 //Afegir un element al final d'un Array
 console.log(fruites.push('Mandarina')); //push retorna la nova longitud
 console.log(fruites);
