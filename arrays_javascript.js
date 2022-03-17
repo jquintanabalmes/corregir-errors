@@ -45,7 +45,7 @@ console.log(vegetals);
 pos = 1
 let numElements = 2;
 
-let elementsEliminats = vegetalssplice(pos, numElements);  //alumne11
+let elementsEliminats = vegetals.splice(pos, numElements);  //alumne11
 
 console.log(vegetals);
 
