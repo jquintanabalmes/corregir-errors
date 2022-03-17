@@ -6,7 +6,7 @@ let fruites = ["Poma", "Taronja]; //alumne1
 console.log(fruites.length);
 
 //Accedir a un element de l'Array mitjançant el seu índex
-let primer = fruites[0;  //alumne2
+let primer = fruites[0];  //alumne2
 console.log(primer);
 
 let ultim = fruites[fruites.length - 1];
