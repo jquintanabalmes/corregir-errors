@@ -6,6 +6,7 @@ let fruites = ["Poma", "TAronja"];
 
 console.log(fruites.length);
 
+//correcció joan2
 //Acceder a un elemento de Array mediante su índice
 let primer = fruites[0];
 console.log(primer);
