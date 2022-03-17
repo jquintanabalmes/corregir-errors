@@ -30,8 +30,9 @@ novaLongitud = fruites.unshift('Maduixa'); // Afegeix "Maduixa" a l'inici
 //Eliminar el primer element d'un Array
 primer = fruites.shift(); // Elimina "Maduixa" de l'inicio
 
+//correcció joan3
 //Tornem a afegir maduixa
-fruites.push('Maduixa')
+fruites.push('Maduixa)
 
 //Trobar l'índex d'un element de l'Array
 let pos = fruites.indexOf('Taronja'); // pos és la posició
