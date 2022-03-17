@@ -1,5 +1,6 @@
 //https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array
 
+//correcció joan1
 //Crear un Array
 let fruites = ["Poma", "TAronja"];
 
